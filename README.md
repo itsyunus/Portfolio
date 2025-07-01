@@ -85,13 +85,13 @@ Features: global hotkeys, macro presets, system tray, branding
 
 🎓 Education
 B.Tech, CSE – Lovely Professional University
-CGPA: 7.04 (Aug’22 – Present)
+CGPA: 8.04 (Aug’22 – Present)
 
-Intermediate (PCM) – Sri Chakra Bhavan, Andhra Pradesh
-73% (2020–2022)
+Intermediate (PCM) – Army Public School
+93% (2020–2022)
 
-Matriculation – Dr. KKR Gowtham Int. School
-80.2% (2019–2020)
+Matriculation – Army Public School
+94.2% (2019–2020)
 
 🏆 Certifications
 The Bits and Bytes of Computer Networking – Coursera
